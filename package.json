@@ -1,6 +1,6 @@
 {
   "name": "shivam-npm-singh",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "First NPM Package Created By Shivam Singh",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,17 @@
   },
   "author": "Shivam Singh",
   "license": "ISC",
-  "dependencies": {
-    "shivam-npm-singh": "^1.0.3"
-  }
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-singh-au17/shivam-npm-singh.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/shivam-singh-au17/shivam-npm-singh/issues"
+  },
+  "homepage": "https://github.com/shivam-singh-au17/shivam-npm-singh#readme"
 }
