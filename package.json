@@ -1,0 +1,14 @@
+{
+  "name": "shivam-npm-singh",
+  "version": "1.0.3",
+  "description": "First NPM Package Created By Shivam Singh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Singh",
+  "license": "ISC",
+  "dependencies": {
+    "shivam-npm-singh": "^1.0.3"
+  }
+}
