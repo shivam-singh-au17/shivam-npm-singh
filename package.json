@@ -8,7 +8,6 @@
   },
   "author": "Shivam Singh",
   "license": "ISC",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shivam-singh-au17/shivam-npm-singh.git"
@@ -20,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shivam-singh-au17/shivam-npm-singh/issues"
   },
-  "homepage": "https://github.com/shivam-singh-au17/shivam-npm-singh#readme"
+  "homepage": "https://github.com/shivam-singh-au17/shivam-npm-singh#readme",
+  "dependencies": {
+    "shivam-privet-npm": "^1.0.0"
+  }
 }
